@@ -73,3 +73,6 @@ input:focus{
     background-color: blueviolet;
     outline: 3px solid rgb(154, 155, 255);
 }
+.button button:hover{
+    color: #fff;
+}
